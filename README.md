@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aparna-da
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to for a Work student 
+- 👀 I’m interested in Data Analysing, Ptofiling and Managing.
+- 🌱 I’m currently learning Data Analytics.
+- 💞️ I’m looking to for Work student.
 - 📫 How to reach me 
 - ph no. +49 17673294480
 - email dr.aparna1402@gmail.com
