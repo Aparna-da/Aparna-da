@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aparna-da
-- 👀 I’m interested in Data Analysing, Ptofiling and Managing.
+- 👀 I’m interested in Data Analysing, Profiling and Managing.
 - 🌱 I’m currently learning Data Analytics.
 - 💞️ I’m looking to for Working student.
 - 📫 How to reach me 
